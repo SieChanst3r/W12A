@@ -1,0 +1,11 @@
+h1 {
+    padding: 20px;
+    margin: 5px;
+    width: 50%;
+}
+
+body {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
